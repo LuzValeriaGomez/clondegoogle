@@ -26,7 +26,7 @@ Las tecnologías que utilicé, son:
 ### Objetivo del proyecto
 Aprender a utilizar las etiquetas estándar de <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> y <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 ### Link a demo
-En el siguiente link puedes ver mi proyecto terminado: [Clon de Google](#)
+En el siguiente link puedes ver mi proyecto terminado: [Clon de Google](https://clondegoogle-cyan-chi.vercel.app/)
 
 
 
